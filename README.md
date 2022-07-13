@@ -17,7 +17,3 @@
 ​	Necessário abrir o index para uso.
 
 ​	Neste você pode experimentar inserindo uma senha genérica, o mesmo vai lhe informar caso faltem carácteres para se tornar válida!
-
-**Desafio 03**
-
-​	Em costrução;
